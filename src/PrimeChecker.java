@@ -1,5 +1,5 @@
 public class PrimeChecker {
-    public static boolean isPrime(int n) {
+    public static boolean isPrime(long n) {
         if (n <= 1) {
             return false;
         }
